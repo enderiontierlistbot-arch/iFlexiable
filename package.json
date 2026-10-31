@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Slash Command Bot - Voice Join & DM All Roles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "opusscript": "^0.0.8"
+  }
+}
